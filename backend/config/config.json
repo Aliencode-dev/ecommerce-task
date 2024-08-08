@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ecommerce_user",
+    "password": "password",
+    "database": "ecommerce_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ecommerce_user",
+    "password": "password",
+    "database": "ecommerce_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ecommerce_user",
+    "password": "password",
+    "database": "ecommerce_app",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
